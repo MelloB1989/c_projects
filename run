@@ -1,0 +1,5 @@
+echo "Compiling...."
+clang $1.c -o execute
+echo "Executing...."
+chmod +x execute
+./execute
