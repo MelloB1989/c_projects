@@ -7,7 +7,10 @@
 2. Supportable environment(Windows, Mac or Linux)
 
 ### Compiling:
-`bash clang <filename.c>`
+`clang <filename.c>`
 
 ### Execution:
-`bash ./a.out`
+`./a.out`
+
+### Execution using automatic script:
+`./run <filename>`
